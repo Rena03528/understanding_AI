@@ -1,2 +1,2 @@
 # Understanding_AI
-Repositório pessoal onde revejo temas, aprendo novos conceitos e descomplico a inteligência Artificial de forma a poder elevar a minha capacidade de resolver problemas e criar soluções que possam ser usadas na realidade.
+Repositório pessoal dedicado à revisão de conceitos, exploração de novos temas e simplificação de Inteligência Artificial. Focado no desenvolvimento da capacidade de resolver problemas e criar soluções práticas aplicáveis ao mundo real.
